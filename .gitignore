@@ -42,16 +42,4 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-.idea/copilot.data.migration.agent.xml
-.idea/copilot.data.migration.ask.xml
-.idea/copilot.data.migration.ask2agent.xml
-.idea/copilot.data.migration.edit.xml
-.idea/gradle.xml
-.idea/misc.xml
-.idea/vcs.xml
-gradle/wrapper/gradle-wrapper.jar
-gradle/wrapper/gradle-wrapper.properties
-gradlew
-gradlew.bat
-build.gradle.kts
-settings.gradle.kts
+.idea/
